@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+
+
+table {
+    border-collapse: collapse;
+
+}
+
+
+td {
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    font-size: 30px;
+    text-align: center;
+}
+
+table td:hover {
+    background-color: rgba(0, 0, 0, .075);
+}
+
+#resetButton {
+    text-align: center;
+}
